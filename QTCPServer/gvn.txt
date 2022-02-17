@@ -1,0 +1,7 @@
+isim,id,password,money
+ricardo quaresma,1,2,500
+mario gomez,3,4,520
+atiba hutchinson,5555555555,6666666666,1000
+simao sabrosa,7777777777,8888888888,1250
+data,data,data,data
+
